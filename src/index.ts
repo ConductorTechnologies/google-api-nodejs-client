@@ -95,6 +95,7 @@ export {cloudbuild_v1alpha1} from './apis/cloudbuild/v1alpha1';
 export {cloudbuild_v1alpha2} from './apis/cloudbuild/v1alpha2';
 export {cloudbuild_v1beta1} from './apis/cloudbuild/v1beta1';
 export {cloudchannel_v1} from './apis/cloudchannel/v1';
+export {cloudcommerceprocurement_v1} from './apis/cloudcommerceprocurement/v1';
 export {clouddebugger_v2} from './apis/clouddebugger/v2';
 export {clouderrorreporting_v1beta1} from './apis/clouderrorreporting/v1beta1';
 export {cloudfunctions_v1} from './apis/cloudfunctions/v1';
